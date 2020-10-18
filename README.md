@@ -1,0 +1,2 @@
+# Fakenamegenerator-GO
+Fakenamegenerator
